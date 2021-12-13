@@ -1,0 +1,13 @@
+Documentation task2
+For the Task 2 the group took the dataset used for task1 regarding all 1999's films in the World.
+To use the dataset at the best, we cleaned it to make it suitable for our studies through the elimination of irrelevant/disturbing characters( such as "$" in int objects, etc.).
+
+With the next step we started the plotting fase.
+First we created two new DFs to make it easier and simpler to plot
+Then we proceeded to plot the relevant correlations
+
+1. We plotted every categorical variable count histogram
+2. We plotted every numerical variable frequency histogram
+3. We plotted every categorical to numerical variables as easy-to-look-at boxplots
+
+Note: for "Language" and "Country" variables, we kept only the more relevant observations (i.e. most spoken languages and most important countries) both because the plots would get too much messy and because some were not completely relevant at all.
