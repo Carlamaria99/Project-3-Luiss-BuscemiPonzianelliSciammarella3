@@ -7,7 +7,7 @@ library(ISLR)
 #After, it is possible to define the dataset requested and translate it into a 
 #readable file, inspect it through 
 #the function str and manipulate it as our dataframe.
-datasets <- "C:/Users/nikig/Desktop/anime_project.csv"
+datasets <- "anime_project.csv"
 #str(datasets)
 my_data <- read.csv(file = datasets, sep = ',')
 
